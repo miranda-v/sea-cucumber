@@ -240,9 +240,11 @@ a {
   .site-footer {
     font-size: 1rem; } }
 
-  body {}
+body {
+    background-color: #a3d5d3;
+  }
   
-  h2 {
+  .intro {
     color: purple;
     font-family: "Comic Sans MS", cursive, sans-serif
   }
@@ -267,4 +269,14 @@ a {
   h7 {
     color: blue;
     font-family: "Comic Sans MS", cursive, sans-serif
+  }
+  
+  .more_sharks {
+    color: #003399;
+    font-family: 'Comic Sans MS', cursive, sans-serif
+  }
+  
+  .cool_facts {
+    color: #0044cc;
+    font-family: "Comic Sans", cursive, sans-serif
   }
